@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1662063473 source:c:\users\documentos\desktop\codebloc\prog2\tp_lab2\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estructuras.h"
+
+1662063371 source:c:\users\documentos\desktop\codebloc\prog2\tp_lab2\tp1\libreriasycontenido.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"Estructuras.h"
+
+1662498654 c:\users\documentos\desktop\codebloc\prog2\tp_lab2\tp1\estructuras.h
+

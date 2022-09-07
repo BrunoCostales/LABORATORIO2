@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1661526105 source:c:\users\documentos\desktop\codebloc\prog2\volviendo\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructura.h"
+
+1661527620 c:\users\documentos\desktop\codebloc\prog2\volviendo\estructura.h
+
+1661527341 source:c:\users\documentos\desktop\codebloc\prog2\volviendo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructura.h"
+
+1661526105 c:\users\documentos\desktop\codebloc\prog2\volviendo\domicilio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructura.h"
+
