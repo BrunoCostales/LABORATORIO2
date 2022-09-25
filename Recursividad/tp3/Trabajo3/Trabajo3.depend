@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662732221 source:c:\users\documentos\desktop\codebloc\prog2\recursividad\tp3\trabajo3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

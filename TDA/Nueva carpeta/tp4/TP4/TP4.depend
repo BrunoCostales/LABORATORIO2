@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663012425 source:c:\users\documentos\desktop\codebloc\prog2\tda\nueva carpeta\tp4\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+

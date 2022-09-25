@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663615095 source:c:\users\documentos\desktop\codebloc\prog2\tda\nueva carpeta\intentotp4\tp4rreal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
